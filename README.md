@@ -1,6 +1,10 @@
 Currently working on:
 FLAG bowling game
 
+<ul>
+For more about me ->  <li><p><a href="https://haydenscreech-dean.webflow.io" target="_blank">Visit my portfolio</a></p></li>
+ 
+</ul>
 <!--
 **Deanosauree/Deanosauree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

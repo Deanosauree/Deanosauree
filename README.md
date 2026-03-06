@@ -1,10 +1,15 @@
-Currently working on:
-FLAG bowling game
 
+
+<h1>Currently working on:</h1>
 <ul>
-For more about me ->  <li><p><a href="https://haydenscreech-dean.webflow.io" target="_blank">Visit my portfolio</a></p></li>
- 
+<li>FLAG bowling game</li>
 </ul>
+
+<hr>
+
+<p align="center">
+------------ For more about me ->  <a href="https://haydenscreech-dean.webflow.io" target="_blank">Visit my portfolio</a> ------------
+</p>
 <!--
 **Deanosauree/Deanosauree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 
 <h1>Currently working on:</h1>
 <ul>
-<li>FLAG bowling game</li>
+<li>Goblin Game</li>
 </ul>
 
 <hr>
